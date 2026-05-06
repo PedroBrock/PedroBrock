@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro Luccas 👋
 
-Sou estudante de Ciência da Computação e desenvolvedor em formação, meus principais interesses em desenvolvimento backend, aplicações web e machine learning.
+Sou estudante de Ciência da Computação e desenvolvedor em formação, e meus principais interesses são em desenvolvimento backend, aplicações web e machine learning.
 
 Atualmente estou construindo projetos com foco em Python, Django, FastAPI e bancos de dados.
 
