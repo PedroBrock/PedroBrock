@@ -29,6 +29,7 @@ Docker · Git · GitHub
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [file-encryptor-masm32](https://github.com/PedroBrock/task-manager-api) | API REST de gerenciamento de tarefas com autenticação JWT | FastAPI · PostgreSQL · Docker |
 | [file-encryptor-masm32](https://github.com/PedroBrock/file-encryptor-masm32) | Criptografador/descriptografador de arquivos via Cifra de César em Assembly x86 | Assembly · MASM32 · Win32 API |
 | [digital-image-processing](https://github.com/PedroBrock/digital-image-processing) | Implementação manual de conversão RGB↔HSV, negativos e filtros de correlação 2D | Python · Pillow · NumPy |
 | [tcp-quiz-game-java](https://github.com/PedroBrock/tcp-quiz-game-java) | Quiz multiplayer via sockets TCP com servidor concorrente e multithread | Java · Sockets · Threads |
