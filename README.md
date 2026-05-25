@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro Luccas 👋
 
-Estudante de Ciência da Computação, em busca de oportunidade de **estágio em desenvolvimento backend ou aplicações web**. Tenho interesse em construir sistemas robustos, APIs estruturadas e soluções orientadas a dados.
+Estudante de Ciência da Computação, em busca de oportunidade de **estágio em desenvolvimento backend ou aplicações web**.
 
 📍 João Pessoa, PB &nbsp;|&nbsp; 📧 pedrosbrock@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pedrobrock/)
 
